@@ -1,7 +1,6 @@
 import React from 'react';
 import './music.css';
 import song from '../sounds/song.mp3';
-import useSound from 'use-sound';
 import play from '../images/play.png';
 import pause from '../images/pause.png';
 
