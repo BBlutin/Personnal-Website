@@ -1,5 +1,3 @@
-
-
 import portfolio from "./images/projects/portfolio.png";
 import tbit from "./images/projects/tbit.png";
 
