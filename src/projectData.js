@@ -11,8 +11,8 @@ export const projectData = [
       "React, JavaScript, HTML, CSS, Adobe Illustrator",
     image: portfolio,
     date_created: "Mai 2021",
-    link: "",
-    github: "",
+    link: "https://thomas-fritschy.tech",
+    github: "https://github.com/BBlutin/Personnal-Website",
   },
   {
     title: "TB-IT",
@@ -24,17 +24,15 @@ export const projectData = [
     link: "https://tb-it.fr/",
   },
   // {
-  //   title: "Mello",
-  //   description: `Mello is single-page web application inspired by the popular 
-  //       productivity app Trello. The front-end is powered by React with Ruby on Rails 
-  //       powering the back-end API.`,
+  //   title: "",
+  //   description: ``,
   //   technologies:
-  //     "React, Ruby on Rails, PostgresDB, JavaScript, CSS, HTML, GitHub, Heroku",
-  //   image: mello,
+  //     "",
+  //   image: ,
   //   date_created: "September 2020",
-  //   link: "https://mello-nm.herokuapp.com",
-  //   github: "https://github.com/neetmangat/mello",
-  //   test_user: "test@test.com",
-  //   test_password: "password",
+  //   link: "",
+  //   github: "",
+  //   test_user: "",
+  //   test_password: "",
   // },
 ];
