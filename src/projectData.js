@@ -28,7 +28,7 @@ export const projectData = [
     description: `Ce clone du site de Tesla a été produit avec React. Ce clone représente environ 3-4h de travail et ne concerne que le design. Le site est responsive (Mobile et Desktop).`,
     technologies:
       "React, Styled-components, JavaScript, HTML, CSS",
-    image: portfolio,
+    image: tesla,
     date_created: "Mai 2021",
     link: "https://tesla.thomas-fritschy.tech/",
     github: "https://github.com/BBlutin/Tesla-Clone-React",
