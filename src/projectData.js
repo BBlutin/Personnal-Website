@@ -2,6 +2,7 @@
 
 import portfolio from "./images/projects/portfolio.png";
 import tbit from "./images/projects/tbit.png";
+import tesla from "./images/projects/tesla.png";
 
 export const projectData = [
   {
