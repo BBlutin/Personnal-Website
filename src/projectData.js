@@ -1,3 +1,5 @@
+
+
 import portfolio from "./images/projects/portfolio.png";
 import tbit from "./images/projects/tbit.png";
 
@@ -20,6 +22,16 @@ export const projectData = [
     image: tbit,
     date_created: "Janvier 2021",
     link: "https://tb-it.fr/",
+  },
+  {
+    title: "Tesla Clone",
+    description: `Ce clone du site de Tesla a été produit avec React. Ce clone représente environ 3-4h de travail et ne concerne que le design. Le site est responsive (Mobile et Desktop).`,
+    technologies:
+      "React, Styled-components, JavaScript, HTML, CSS",
+    image: portfolio,
+    date_created: "Mai 2021",
+    link: "https://tesla.thomas-fritschy.tech/",
+    github: "https://github.com/BBlutin/Tesla-Clone-React",
   },
   // {
   //   title: "",
