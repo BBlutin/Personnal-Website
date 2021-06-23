@@ -3,6 +3,7 @@
 import portfolio from "./images/projects/portfolio.png";
 import tbit from "./images/projects/tbit.png";
 import tesla from "./images/projects/tesla.png";
+import chat from "./images/projects/chat.png";
 
 export const projectData = [
   {
@@ -33,6 +34,15 @@ export const projectData = [
     date_created: "Mai 2021",
     link: "https://tesla.thomas-fritschy.tech/",
     github: "https://github.com/BBlutin/Tesla-Clone-React",
+  },
+  {
+    title: "SuperChat",
+    description: `Il s'agit d'un projet FullStack permettant de chatter dans des salles. Ce projet représente 15-20h de travail et je compte refaire le design dans le futur`,
+    technologies:
+      "Socket.io, React, NodeJS, CSS, Javascript, HTML",
+    image: tbit,
+    date_created: "Juin 2021",
+    link: "https://chat.thomas-fritschy.tech/",
   },
   // {
   //   title: "",
