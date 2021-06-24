@@ -40,7 +40,7 @@ export const projectData = [
     description: `Il s'agit d'un projet FullStack permettant de chatter dans des salles. Ce projet représente 15-20h de travail et je compte refaire le design dans le futur`,
     technologies:
       "Socket.io, React, NodeJS, CSS, Javascript, HTML",
-    image: tbit,
+    image: chat,
     date_created: "Juin 2021",
     link: "https://chat.thomas-fritschy.tech/",
   },
