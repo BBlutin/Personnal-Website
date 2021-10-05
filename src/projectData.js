@@ -4,6 +4,8 @@ import portfolio from "./images/projects/portfolio.png";
 import tbit from "./images/projects/tbit.png";
 import tesla from "./images/projects/tesla.png";
 import chat from "./images/projects/chat.png";
+import disney from "./images/projects/disney.png";
+import spotify from "./images/projects/spotify.png";
 
 export const projectData = [
   {
@@ -37,12 +39,30 @@ export const projectData = [
   },
   {
     title: "SuperChat",
-    description: `Il s'agit d'un projet FullStack permettant de chatter dans des salles. Ce projet représente 15-20h de travail et je compte refaire le design dans le futur`,
+    description: `Il s'agit d'un projet FullStack permettant de chatter dans des salles. Ce projet représente 15-20h de travail et je compte refaire le design dans le futur.`,
     technologies:
       "Socket.io, React, NodeJS, CSS, Javascript, HTML",
     image: chat,
     date_created: "Juin 2021",
     link: "https://chat.thomas-fritschy.tech/",
+  },
+  {
+    title: "Clone Disney +",
+    description: `Il s'agit d'un clone du site de Disney + fait en Next JS. Ce clone représente environ 16h de travail`,
+    technologies:
+      "React JS, Next JS, NodeJS, Tailwind CSS, Firebase, API",
+    image: disney,
+    date_created: "Septembre 2021",
+    link: "https://disney.thomas-fritschy.tech/",
+  },
+  {
+    title: "Better Spotify",
+    description: `|WIP| Le concept de cette WebApp est de fournir une meilleure interface pour Spotify. L'application est toujours en cours de développement mais vous pouvez déjà expérimenter les fonctionnalitées de base.`,
+    technologies:
+      "React JS, Next JS, NodeJS, Tailwind CSS, Firebase, API",
+    image: spotify,
+    date_created: "Septembre 2021",
+    link: "https://better-spotify.thomas-fritschy.tech/",
   },
   // {
   //   title: "",
